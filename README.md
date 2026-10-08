@@ -105,7 +105,7 @@ I am always interested in connecting with **professors, researchers, structural 
 
 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/rajesh-bhandari-6116b1302/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfXPvVSW%2FSHWKnL9HZpcBaw%3D%3D)
 
-**Email** [Connect with me on email](078bce120.rajesh@pcampus.edu.np/rb68325794@gmail.com)
+**Email** [Connect with me on email](078bce120.rajesh@pcampus.edu.np)
 
 ---
 
