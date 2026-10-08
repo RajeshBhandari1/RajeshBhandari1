@@ -103,9 +103,10 @@ My projects are intended to document **what I learn, how I implement it, and how
 
 I am always interested in connecting with **professors, researchers, structural engineers, and students** working in structural and earthquake engineering.
 
-**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/rajesh-bhandari-6116b1302/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfXPvVSW%2FSHWKnL9HZpcBaw%3D%3D)
-
-**Email** [Connect with me on email](078bce120.rajesh@pcampus.edu.np)
+<p align="left">
+   <a href="[https://www.linkedin.com/in/ashim-paudel-659949225](https://www.linkedin.com/in/rajesh-bhandari-6116b1302/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEtJDiVrqRvCP8vPFQJ1JCQ%3D%3D)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:078bce120.rajesh@pcampus.edu.np"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
 ---
 
